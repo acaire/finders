@@ -22,7 +22,6 @@ setup(
     install_requires=[
         'boto3',
     ],
-    download_url='https://github.com/acaire/finders/archive/0.1.1.tar.gz',
     url='https://github.com/acaire/finders',
     packages=find_packages(exclude=['tests*']),
     author='Ash Caire',
